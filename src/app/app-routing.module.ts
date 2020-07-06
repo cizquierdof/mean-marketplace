@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+vimport { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { NotFoundComponentComponent } from './components/not-found-component/not-found-component.component';
 import { ServicesListComponent } from './components/services-list/services-list.component';
